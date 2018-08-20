@@ -1,0 +1,28 @@
+.align{
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+input, label {
+    display:block;
+}
+
+#buttom1{
+    clear: both;
+}
+
+h2.page-header {
+    margin-top: 1%;
+    padding-bottom: 1%;
+    background-color: #C70025;
+    color: white;
+    text-align: center;
+}
+.img-size{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+    height: 150px;
+}
+
